@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a from scratch home automation system
+- 🌱 I’m currently learning Tensorflow.js 
+- 💬 Ask me about Rick and Morty
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dawson-reschke/)
+- ⚡ Fun fact: Canned green beans is a top 10 food for me. 
+
+
 <!--
 **DawsonReschke/DawsonReschke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
